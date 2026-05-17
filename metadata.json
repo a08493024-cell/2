@@ -1,0 +1,8 @@
+{
+  "name": "VseInstrumenti Discount Bot",
+  "description": "Telegram bot that scrapes vseinstrumenti.ru for deals with >50% discount and notifies users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
